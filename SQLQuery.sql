@@ -238,3 +238,4 @@ FROM bank_loan_data
 WHERE grade = 'A'
 GROUP BY purpose
 ORDER BY purpose
+
