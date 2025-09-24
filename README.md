@@ -12,6 +12,9 @@ This project analyzes **Bank Loan Data** to monitor loan performance, track repa
 Using **SQL, Excel/Power Query, and Power BI**, the system delivers an interactive loan portfolio dashboard that provides financial institutions with **actionable insights** for smarter lending decisions.  
 
 ---
+## Live Demo : https://app.powerbi.com/view?r=eyJrIjoiZGJmNDYwZWEtMTBmYy00OWExLTlhMzItZmVlYzRmYWYwNTVmIiwidCI6ImFiMWQ3ZWU3LTIxZjktNDcyMS1iZTNlLTgyZWJmNGZjNDcyMyJ9
+
+---
 
 ## 🔎 Problem Statement  
 
